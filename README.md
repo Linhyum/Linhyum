@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?color=00000000&type=wave&section=footer&fontColor=36bcf7ff&height=120&animation=twinkling&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=10b981FF&strokeWidth=2&text=%C4%90o%C3%A0n+Nh%E1%BA%A5t+Linh&reversal=true&theme=tokyonight" alt="" />
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on: Building scalable web applications & optimizing Frontend performance at SR Group.<br>👯 I’m looking to collaborate on: Open-source React/NextJS projects or large-scale E-commerce/Streaming architectures.<br>🤝 I’m looking for help with: Advanced Backend System Design & DevOps pipelines.<br>🌱 I’m currently learning: Advanced Design Patterns, System Architecture, and Engineering Leadership.<br>💬 Ask me about: ReactJS, NextJS, TypeScript, Tailwind CSS, and UI/UX Optimization.<br>⚡ Fun fact: I treat code like art—it must be clean, structured, and beautiful ✨.
 
